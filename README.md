@@ -87,8 +87,13 @@ Folder/
 |
 |-- ...
 ```
-
-
+OR
+```
+Folder/
+|-- Video1.mp4/gif
+|-- Video2.mp4/gif
+|-- ...
+```
 
 #### Evaluate FVMD
 
