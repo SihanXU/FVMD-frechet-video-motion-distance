@@ -3,7 +3,13 @@ This repository contains the official implementation of the Fréchet video motio
 
 [![Generic badge](https://img.shields.io/badge/Paper-arxiv-default.svg)](https://arxiv.org/abs/2407.16124) [![Generic badge](https://img.shields.io/badge/pypi-v1.0.0-red.svg)](https://pypi.org/project/fvmd/1.0.0/) [![FVMD - Blog](https://img.shields.io/badge/FVMD-Blog-2ea44f)](https://dsl-lab.github.io/blog/2024/fvmd-2/)
 
+## Support MP4 and GIF
 
+Install:
+```
+git clone https://github.com/SihanXU/FVMD-frechet-video-motion-distance.git
+pip install FVMD-frechet-video-motion-distance/.
+```
 
 ## 🔥 News
 
